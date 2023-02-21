@@ -79,9 +79,11 @@ main {
 article > h1 {
     font-family: var(--fonte2);
     font-size: 2em;
+    font-weight: lighter;
     text-indent: 5px;
     color: var(--cor4);
     margin: 10px;
+    text-align: left;
 }
 
 h2 {
